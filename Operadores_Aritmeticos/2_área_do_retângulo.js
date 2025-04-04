@@ -1,5 +1,5 @@
-let base = 3
-let altura = 5
+let base = 3;
+let altura = 5;
 
 let área = base * altura;
 
